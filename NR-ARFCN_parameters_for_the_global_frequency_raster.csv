@@ -1,0 +1,4 @@
+freq_low_mHz;freq_high_mHz;delta_freq_global_kHz;freq_ref_offs_mHz;n_ref-offs;n_ref_low;n_ref_high
+0;3000;5;0;0;0;599999
+3000;24250;15;3000;600000;600000;2016666
+24250;100000;60;24250.08;2016667;2016667;3279165
